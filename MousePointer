@@ -39,7 +39,6 @@ public class MousePointer extends Frame implements WindowListener,MouseMotionLis
 
 	@Override
 	public void keyPressed(KeyEvent arg0) {
-		// TODO Auto-generated method stub
 		
 	}
 
